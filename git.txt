@@ -219,3 +219,5 @@ $ git merge hotfix
 
 удаление ветки 
 $ git branch -d hotfix
+
+и что то новое
