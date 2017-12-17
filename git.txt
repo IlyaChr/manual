@@ -206,6 +206,16 @@ $ git branch testing
 переход на другую ветку 
 $ git checkout testing
 
+создание и переход на ветку testing
+$ git checkout -b testing
 
-test info
 
+Основы ветвления и слияния
+
+сливание веток 
+$ git checkout master
+$ git merge hotfix
+
+
+удаление ветки 
+$ git branch -d hotfix
