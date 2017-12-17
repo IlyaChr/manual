@@ -206,3 +206,6 @@ $ git branch testing
 переход на другую ветку 
 $ git checkout testing
 
+
+test info
+
