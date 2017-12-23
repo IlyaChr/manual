@@ -296,3 +296,5 @@ $ git rebase --onto master server client
 Эта команда применит изменения из вашей работы над 
 веткой server на вершину ветки master
 $ git rebase master server
+
+end
